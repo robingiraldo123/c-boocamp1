@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gS2ALplfu5QBNP64uXFDqKN3p9H/Pk9HUh5xAANcFUnbjim4TA9Cx6M8nEDjkMzMtNGXpnVN1CIXXh48s80PRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robinson.Orrego\\source\\repos\\CLASE_8\\CLASE_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robinson.Orrego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

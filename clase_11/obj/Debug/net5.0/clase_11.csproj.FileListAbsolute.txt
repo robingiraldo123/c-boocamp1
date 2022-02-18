@@ -1,0 +1,16 @@
+C:\Users\Robinson.Orrego\source\repos\clase_11\bin\Debug\net5.0\clase_11.exe
+C:\Users\Robinson.Orrego\source\repos\clase_11\bin\Debug\net5.0\clase_11.deps.json
+C:\Users\Robinson.Orrego\source\repos\clase_11\bin\Debug\net5.0\clase_11.runtimeconfig.json
+C:\Users\Robinson.Orrego\source\repos\clase_11\bin\Debug\net5.0\clase_11.runtimeconfig.dev.json
+C:\Users\Robinson.Orrego\source\repos\clase_11\bin\Debug\net5.0\clase_11.dll
+C:\Users\Robinson.Orrego\source\repos\clase_11\bin\Debug\net5.0\ref\clase_11.dll
+C:\Users\Robinson.Orrego\source\repos\clase_11\bin\Debug\net5.0\clase_11.pdb
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.csproj.AssemblyReference.cache
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.AssemblyInfoInputs.cache
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.AssemblyInfo.cs
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.csproj.CoreCompileInputs.cache
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.dll
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\ref\clase_11.dll
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.pdb
+C:\Users\Robinson.Orrego\source\repos\clase_11\obj\Debug\net5.0\clase_11.genruntimeconfig.cache
